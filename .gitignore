@@ -1,0 +1,5 @@
+# Repo payung "Individual": hanya berisi submodule + berkas ini.
+# Installer lokal, bukan bagian proyek
+rustup-init.exe
+# Arsip repo lama Financial Tracker v01 (riwayatnya juga ada di tag arsip/v01-vanilla-js pada repo V.02)
+/Financial Tracker/.git-arsip-v01/

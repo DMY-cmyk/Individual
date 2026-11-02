@@ -1,0 +1,9 @@
+[submodule "Financial Tracker/Financial-Tracker-V.02"]
+	path = Financial Tracker/Financial-Tracker-V.02
+	url = https://github.com/DMY-cmyk/Financial-Tracker-V.02.git
+[submodule "Financial Tracker System Spreadsheet"]
+	path = Financial Tracker System Spreadsheet
+	url = https://github.com/DMY-cmyk/Financial-Tracker-System-Spreadsheet.git
+[submodule "Proffesional_Portfolio"]
+	path = Proffesional_Portfolio
+	url = https://github.com/DMY-cmyk/Proffesional_Portfolio.git
